@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS departments, dept_emp, dept_manager, employees, salaries, titles;
+DROP TABLE IF EXISTS departments, titles, employees, dept_emp, dept_manager, salaries;
 
 CREATE TABLE departments (
     dept_no VARCHAR NOT NULL PRIMARY KEY,
