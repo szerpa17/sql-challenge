@@ -6,6 +6,15 @@ Challenge to apply data engineering skills on employee data from CSV tables, imp
 
 Query results may be found in the [Analysis.ipynb](https://github.com/szerpa17/sql-challenge/blob/master/EmployeeSQL/Analysis.ipynb) file.
 
+## Tools
+* Python
+* Python Packages:
+    * Sqlalchemy
+    * Pandas
+    * Matplotlib.pyplot
+* PostgreSQL
+
+
 ## Data Modeling
 
 Used [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com) to sketch out an ERD of the employee tables.
